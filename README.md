@@ -1,3 +1,7 @@
+# This is a copy from [https://github.com/Aspera/angular-storage](https://github.com/Aspera/angular-storage), because the original author has removed the repository.
+# This repository is used in the Agent Portal. The original README.md file is all that follows.
+
+
 # Angular Storage
 
 ### Status
