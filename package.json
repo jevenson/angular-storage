@@ -1,0 +1,15 @@
+{
+  "name": "angular-storage",
+  "version": "0.5.0",
+  "description": "A web storage solution for use with AngularJS",
+  "main": "./dist/angular-storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://bhsc.visualstudio.com/Development/Legacy/_git/angular-storage"
+  },
+  "author": "",
+  "license": "ISC"
+}
